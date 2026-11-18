@@ -1,0 +1,8 @@
+{
+  "name": "PhishGuard",
+  "description": "AI-Powered Phishing Detection & Cyber Threat Intelligence Platform for URLs, email security, DNS/SSL inspection, and explainable ML risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

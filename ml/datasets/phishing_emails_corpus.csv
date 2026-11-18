@@ -1,0 +1,121 @@
+subject,body,label
+"Q3 Security Audit Schedule and Agenda","Hi team please review the attached agenda for Thursday's Q3 security architecture review in Conference Room B at 10:00 AM.",0
+"Your GitHub pull request #412 was merged","Pull request #412 in phishguard/core-engine was merged by engineering-lead. View the commit diff on GitHub.",0
+"Monthly Cloud Infrastructure Invoice #INV-2026-09","Your monthly cloud hosting statement for September is available in your billing console. Auto-pay is scheduled for October 5.",0
+"Weekly Engineering Standup Notes","Summary of sprint deliverables: completed unit test suite, updated PostgreSQL schema migration, and reviewed latency metrics.",0
+"Welcome to the Kubernetes Security Working Group","Thank you for subscribing to our mailing list. Monthly community calls take place on the first Tuesday of each month.",0
+"Flight confirmation for Seattle conference","Your itinerary and boarding pass details are available in your airline account. Departure is scheduled for 08:35 AM.",0
+"Password changed confirmation","We are confirming that your account password was updated on November 12. If you made this change no further action is needed.",0
+"Re: API rate limit increase request","Hi Alex we have approved your request to increase the staging API quota to 5000 requests per minute effective immediately.",0
+"Design Review Feedback: Dashboard Charts","Thanks for sharing the Recharts layout mockups. Let us adjust the Y-axis padding and refine the tabular number alignment.",0
+"Your order #88412 has shipped","Your shipment has left our fulfillment warehouse and is scheduled to arrive Tuesday via standard ground delivery.",0
+"Quarterly Compliance Training Reminder","Please complete your annual data privacy training module in the internal learning portal before the end of the quarter.",0
+"Release Notes: v2.4.1 Patch Deployed","We deployed minor bug fixes for CSV exports and improved dark mode contrast on high-DPI displays.",0
+"Lunch and Learn: Threat Modeling Basics","Join our security engineering team Friday at noon for an introductory session on STRIDE threat modeling.",0
+"Re: Database backup verification complete","Automated snapshot verification passed with zero checksum mismatches on the primary cluster.",0
+"Invitation: Architecture Sync","You have been invited to an online meeting on Wednesday at 2:00 PM EST to discuss observability pipelines.",0
+"Library book return reminder","Friendly reminder that two borrowed books are due back at the campus library next Monday.",0
+"Payroll statement available","Your bi-weekly pay stub is now posted in the HR portal. No changes to direct deposit settings were made.",0
+"Conference CFP submission received","Thank you for submitting your paper on machine learning interpretability to the annual security symposium.",0
+"Re: Documentation typo fix","Good catch! I updated the README installation steps and pushed the commit to the main branch.",0
+"Subscription renewal notice","Your annual developer tools license will renew automatically on December 1 at the standard rate.",0
+"Team offsite travel guidelines","Please book economy flights and submit receipts through the expense portal within 14 days of travel.",0
+"New comment on Jira ticket SEC-104","Elena added a comment: Verified the CORS allowlist configuration in staging environment.",0
+"Welcome to Open Source Maintainers","Thanks for joining the triage team. Please review the contributor guidelines before tagging issues.",0
+"Monthly newsletter: Cloud Native Security","In this issue: container image signing best practices, SBOM automation, and least-privilege IAM policies.",0
+"Re: Internship interview confirmation","We look forward to speaking with you tomorrow at 11:00 AM for your technical engineering interview.",0
+"Server maintenance window Sunday 02:00 UTC","Scheduled network switch firmware upgrade will take place Sunday morning with minimal expected downtime.",0
+"Your two-factor recovery codes","Keep these backup codes in a secure password manager in case you lose access to your authenticator device.",0
+"Project kickoff notes","Attached are the action items and milestone dates agreed upon during this morning's kickoff call.",0
+"Receipt for domain renewal","Thank you for renewing your organization domain for one additional year. Receipt ID 992014.",0
+"Mentorship program matching results","Congratulations you have been paired with a senior principal engineer for the fall mentorship cohort.",0
+"Code review requested on PR #118","Please review the input validation middleware refactor when you have a few minutes today.",0
+"Webinar recording: Zero Trust Networking","Here is the link to watch the on-demand replay of yesterday's Zero Trust architecture webinar.",0
+"Updated holiday office schedule","Our offices will be closed on November 26 and 27. On-call rotations remain active for production support.",0
+"Hardware token shipment tracking","Your YubiKey security keys have been dispatched to the corporate mailroom.",0
+"Academic transcript request processed","Your official digital transcript has been delivered to the university admissions office.",0
+"Re: Firewall rule audit","Reviewed the egress rules for the staging VPC; all unused ports have been closed as recommended.",0
+"Customer support ticket #44102 resolved","Your support inquiry regarding webhook retries has been marked resolved. Reply if you need further assistance.",0
+"Sprint retrospective summary","What went well: faster CI builds and cleaner error logging. Action item: expand integration test coverage.",0
+"Security bulletin: OpenSSL patch available","Linux distribution maintainers have released patched OpenSSL packages; schedule routine patching during maintenance.",0
+"Volunteer event signup confirmation","Thank you for signing up for Saturday's community park cleanup event at 9:00 AM.",0
+"Re: Vendor NDA countersigned","Attached is the fully executed non-disclosure agreement for your legal records.",0
+"Annual benefits open enrollment guide","Open enrollment begins next Monday. Review medical and dental plan options in the employee portal.",0
+"Docker Hub automated build succeeded","Image tag v1.8.0 built cleanly and passed vulnerability scanning with zero critical CVEs.",0
+"Certificate renewal confirmation","Your TLS certificate for api.example-corp.org has been automatically renewed via ACME.",0
+"Re: SQLite query optimization","Adding the composite index on created_at and risk_level reduced query latency from 45ms to 3ms.",0
+"Workshop materials: Intro to FastAPI","Slides and sample notebooks from today's backend workshop are available in the shared repository.",0
+"Bank statement ready for viewing","Your October checking account statement is now available inside the official mobile banking app.",0
+"Fitness club membership update","Our downtown facility will open new evening hours starting next week.",0
+"Re: Research paper citations","I verified the DOI references for Section 3 and formatted the bibliography in IEEE style.",0
+"Podcast episode: Defensive SOC Operations","Listen to our latest interview with a SOC director on alert triage and reducing analyst fatigue.",0
+"Annual tax form W-2 availability","Electronic W-2 forms will be available inside the payroll system by January 31.",0
+"Travel expense report approved","Your expense report EXP-7731 for $342.18 has been approved for reimbursement.",0
+"Re: DNS zone transfer check","Confirmed that AXFR zone transfers are restricted solely to authorized secondary nameservers.",0
+"Community meetup next Thursday","Join local Python and TypeScript engineers next Thursday evening for lightning talks.",0
+"Package delivered at front desk","Your parcel from the office supply vendor was signed for at reception.",0
+"Re: SSL Labs scan results","The production load balancer achieved an A+ grade after disabling TLS 1.1 and weak ciphers.",0
+"Newsletter: Frontend accessibility tips","Learn how to test keyboard focus rings and contrast ratios across dark dashboards.",0
+"Project budget update Q4","We remain 4% under budget for Q4 cloud compute spend following instance rightsizing.",0
+"Re: Unit test coverage report","Coverage across the authentication and parsing modules reached 94% in the latest CI run.",0
+"Thank you for attending CyberSec Summit","Download slides and speaker resources from the conference portal.",0
+"URGENT: Your Microsoft 365 password expires in 2 hours","Dear user your corporate email password will expire today. Click here immediately to keep your same password and avoid account suspension: http://micros0ft-auth-verify.xyz/owa/login",1
+"Action Required: Verify your PayPal account immediately","We noticed unusual login activity on your PayPal account. Your account is temporarily limited. Log in within 24 hours to verify your credit card and SSN or your funds will be frozen.",1
+"Unpaid Invoice #88412 - Immediate Wire Transfer Required","Hi this is the CFO. I am in a confidential board meeting and cannot take calls. Please process an urgent wire transfer of $48,500 to our new vendor bank account today.",1
+"DHL Express: Parcel delivery suspended due to unpaid customs fee","Your package is held at the distribution center. Pay the $2.99 customs clearance fee now using your debit card at http://dhl-parcel-clearance.top/pay",1
+"Security Alert: Suspicious Sign-In Detected on Your Bank Account","Immediate action required! Someone attempted to transfer $3,400 from your checking account. Verify your identity and enter your online banking PIN immediately to cancel.",1
+"Your Apple ID has been locked for security reasons","We detected unauthorized access to your iCloud account. Unlock your Apple ID immediately by confirming your billing address and password at http://xn--pple-43d.com/unlock",1
+"HR Notice: Mandatory Direct Deposit Re-Verification","All employees must update their payroll direct deposit banking details before 5 PM today or Friday paycheck will be delayed. Sign in at http://adp-payroll-verify.info/login",1
+"DocuSign: Urgent Contract Signature Required","You have received an urgent confidential remittance document to review and sign. Open the attached HTML form or sign in with your corporate email credentials to view.",1
+"Quarantine Notice: 7 Undelivered Emails Held","Your corporate mailbox has 7 pending messages blocked by quarantine. Click Release Messages immediately and enter your email password to prevent permanent deletion.",1
+"IRS Tax Refund Notification: Claim $1,420.00 Now","You are eligible for an immediate federal tax rebate. Submit your Social Security Number, bank routing number, and debit card details to claim your refund within 24 hours.",1
+"Netflix Billing Declined: Account Will Be Suspended","Your recent payment failed. Update your credit card information immediately at http://netfIix-account-hold.info/billing or your membership will be canceled tonight.",1
+"IT Helpdesk: Mandatory MFA Token Reset Required","Due to a security breach all staff must re-register their MFA authenticator within 1 hour. Click here and enter your current password and 6-digit OTP code.",1
+"CEO Urgent Request: Purchase Gift Cards for Client","Are you at your desk? I need you to urgently buy five $200 Apple gift cards for a client presentation and email me the scratch-off PIN codes right away. Keep this confidential.",1
+"Amazon Order Confirmation: MacBook Pro $2,499 Charged","Thank you for your order of a MacBook Pro. If you did not authorize this $2,499 charge click here immediately to cancel and enter your card details for a full refund.",1
+"Voice Message Received (00:42) - Open Attachment","You have 1 new corporate voicemail. Download and open the attached voicemail_recording.html.exe file or log into your Outlook Web Access portal immediately.",1
+"Warning: Mailbox Storage 99.8% Full - Upgrade Immediately","Your email account has exceeded its quota and incoming messages will bounce. Click here to validate your email password and increase storage immediately.",1
+"Bank of America: Card Temporarily Deactivated","Your Visa debit card has been suspended due to suspicious activity. Confirm your 16-digit card number, CVV, ATM PIN, and online banking password to restore access.",1
+"FedEx Delivery Exception: Confirm Address & Pay Fee","We could not deliver your parcel today. Update your home address and pay a $1.95 redelivery fee immediately at http://tinyurl.com/fedex-redelivery-fee",1
+"Chase Security Center: Unauthorized Zelle Transfer","Did you authorize a $1,850 Zelle transfer? Reply or click http://chase-onl1ne-verify.com/cancel immediately and enter your username, password, and verification code.",1
+"MetaMask Security Warning: KYC Wallet Verification Required","Failure to complete mandatory KYC seed phrase verification within 12 hours will result in permanent suspension of your crypto wallet. Enter your 12-word recovery phrase now.",1
+"Shared File: Q4_Bonus_Spreadsheet_2026.xlsm","Finance shared an updated employee bonus compensation spreadsheet with you. Enable macros when opening the attached .xlsm file or log in here to view.",1
+"Account Suspension Final Notice: Verify Credentials Now","FINAL WARNING: Your corporate SSO access will be revoked in 30 minutes unless you verify your Okta username, password, and security questions immediately.",1
+"Wells Fargo Alert: Confirm Recent Wire Request","Urgent security notice: A wire transfer of $9,200 is pending approval. Log in at http://198.51.100.99/wells-fargo/verify immediately to block this transaction.",1
+"Stripe Payout Paused: Update Bank Routing Number","Your merchant payouts have been placed on hold due to missing verification. Log into http://xn--strpe-6sa.com/verify immediately and re-enter your bank credentials.",1
+"Microsoft Teams: You Missed 3 Important Messages","You have unread messages from HR and Executive Leadership. Sign in with your Microsoft 365 credentials at http://login.microsoftonline.com.verify-account-session-841.com/auth",1
+"USPS Package Tracking Alert: Incomplete Address","Your shipment cannot be delivered due to an invalid zip code. Click immediately to confirm your address and enter a payment card for redelivery.",1
+"GitHub Security Alert: Personal Access Token Compromised","Urgent: An unauthorized SSH key was added to your repository. Verify your GitHub password and 2FA recovery codes immediately at http://github.com.ssh-key-audit-warning.site/login",1
+"Coinbase Account Locked: Verify 2FA Immediately","Suspicious withdrawal detected from Russia. Click here immediately to verify your identity, upload your passport, and enter your password and SMS code.",1
+"Invoice Overdue #4491 - Enable Macros to View PDF","Please find attached the overdue invoice statement invoice_4491.docm. You must click Enable Content to view the payment instructions and wire details.",1
+"Google Workspace Admin: Domain Suspension Notice","Your organization's Google Workspace subscription failed verification. Re-enter admin credentials within 4 hours to prevent email outage.",1
+"Urgent: Legal Subpoena Notice - Review Attached File","You are named in an urgent court filing. Download and extract the attached password-protected subpoena_documents.zip file immediately (password: 1234).",1
+"PayPal Resolution Center: Account Permanently Limited","Your account will be permanently closed in 24 hours unless you upload photo ID and verify your bank login credentials at http://paypa1-security-verify.com/signin",1
+"LinkedIn HR: Confidential Executive Job Offer","A Fortune 500 recruiter wants to send you a confidential compensation package. Sign in with your Microsoft or Google credentials at http://linkedln-hr-recruiting.com/auth",1
+"Dropbox Shared Folder: Urgent Wire Instructions","Client shared updated bank routing instructions for tomorrow's closing wire. Click to authenticate with your corporate email password to open the document.",1
+"Capital One: Unusual Activity on Your Credit Card","Verify your identity immediately to prevent card cancellation. Enter your SSN, date of birth, card CVV, and online login at http://capitalone-unusual-activity.tk/sign-in",1
+"Slack Workspace Deactivation Warning","Your company Slack workspace is scheduled for deletion today. Confirm your administrator password and billing card immediately at http://slack-workspace-deactivation.ga/oauth",1
+"Zoom Missed Meeting: HR Layoff List Recording","Watch the confidential HR meeting recording immediately. Log in using your company email and password at http://zoom-missed-meeting-recording.pw/auth",1
+"American Express: Claim Your $500 Cashback Reward","Congratulations! You have an unclaimed $500 statement credit expiring tonight. Log in with your Amex credentials and card security code to redeem now.",1
+"Cisco AnyConnect VPN: Critical Security Patch Required","All remote employees must install the attached vpn_security_update.scr patch immediately or lose corporate network access by 6:00 PM.",1
+"iCloud Storage Full: Payment Failed - Data Loss Warning","Your iCloud photos and backups will be permanently erased in 24 hours unless you update your Visa or Mastercard billing details immediately.",1
+"Spotify Premium Suspended: Renew Card Now","Your subscription has expired due to a billing error. Re-enter your payment card and password immediately to keep your playlists.",1
+"URGENT Vendor Bank Account Change Request","Please update our ACH vendor banking information effective immediately for all upcoming invoice payments. Do not call our old number as it is under maintenance.",1
+"Okta SSO: Password Reset Requested From Unknown Device","If you did not request an Okta password reset from Kiev, click immediately at http://sso.okta.com.corp-mfa-reset.workers.dev/login and enter your password to cancel.",1
+"AWS Root Account Alert: Unauthorized EC2 Cryptomining","Immediate action required! Your AWS billing threshold exceeded $15,000. Sign in at http://signin.aws.amazon.com.iam-root-verify.cc/console to suspend charges.",1
+"HSBC Online Banking: Re-activate Secure Key Now","Your HSBC digital secure key expires today. Confirm your sort code, account number, PIN, and password immediately at http://hsbc-uk-security-alert.info/login",1
+"Barclays Fraud Prevention: Confirm £2,100 Card Charge","Reply immediately or click http://barclays-fraud-prevention.xyz/online/pin-sentry and enter your card PIN and passcode to block an unauthorized purchase.",1
+"Instagram Copyright Violation: Appeal Account Deletion","Your Instagram account will be permanently deleted in 12 hours for copyright infringement. Submit your username and password immediately to appeal.",1
+"Discord Nitro Free Gift: Scan QR or Login Now","You received a free 3-month Discord Nitro gift! Log in immediately with your email, password, and 2FA code at http://discord-nitro-free-claim-2026.click/login",1
+"Steam Guard Alert: Verify Trade Offer Immediately","Your Steam inventory items are pending trade transfer. Cancel immediately by logging into http://steam-community-trade-offer-login.xyz/openid/login",1
+"RBC Royal Bank: Interac e-Transfer Deposit $850.00","You have received an Interac e-Transfer of $850.00. Select your bank and enter your online banking card number and password to deposit funds immediately.",1
+"TD EasyWeb Security Lock: Verify Security Questions","Unusual access detected from an unrecognized browser. Confirm your access card number, password, and all three security questions now.",1
+"WhatsApp Web: Verify Phone Backup Or Lose Chats","Your encrypted chat backup failed. Enter your 6-digit SMS verification code and PIN immediately at http://whatsapp-web-backup-restore.xyz/verify",1
+"Binance Account Frozen: Withdrawals Disabled","Urgent compliance alert: Verify your account login, 2FA authenticator seed, and identity documents within 6 hours or forfeit account balance.",1
+"Ledger Live Critical Firmware Update: Validate Seed","A critical vulnerability affects your hardware wallet. Enter your 24-word recovery seed phrase immediately at http://ledger-live-firmware-update.tk/seed",1
+"Adobe Sign: Confidential NDA Requires Your Password","Please authenticate using your corporate email address and password to decrypt and sign the attached urgent Adobe Sign PDF document.",1
+"SharePoint Shared File: Urgent Payroll Adjustment","Open the attached payroll_adjustment_2026.html file and enter your Microsoft 365 credentials to review your revised compensation schedule.",1
+"Santander Security Notice: New Payee Confirmation","A new payee was added to your account. If this was not you, enter your Customer ID, passcode, and registration number immediately at http://santander-verify-payee.click/login",1
+"Citibank Card Alert: Immediate Verification Needed","Your Citibank card is locked due to suspicious international charges. Click here immediately and enter your card number, expiry, CVV, and PIN.",1
+"HMRC Tax Refund: Claim £684.50 Direct Deposit","You are owed a tax rebate of £684.50. Submit your debit card details, sort code, and National Insurance number immediately at http://hmrc-tax-refund-claim.click/gateway",1
+"Telegram Security: Login Code Required To Prevent Ban","Warning: Your Telegram account is flagged for spam. Verify your phone number and login OTP code immediately to prevent permanent account termination.",1
